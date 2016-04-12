@@ -30,6 +30,6 @@ Hadoop Map-Reduce Project #3
 - Q7. For those tweets with location information, what lat/long (or city/state) is the centroid?  
    What was the proportion of tweets with location to those without?  
    > Result -  
-   > Centroid: [38.926748250824289, -82.26612365207464] (which lies inside 200 miles of Cincinnati)   
+   > Centroid: [38.926748250824289, -82.26612365207464]-(which lies inside 200 miles of Cincinnati)   
    > Proportion of Tweets with location to without location: 2.0577468039835232 (around 48.6 %)
    
