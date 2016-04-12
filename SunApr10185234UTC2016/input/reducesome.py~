@@ -10,6 +10,7 @@ total_count = float(0)
 result = {}
 for line in sys.stdin:
   (key,val) = line.strip().split('\t',1)
+  # if key=="coords":
   coordsD = json.loads(val)
   lats_sum += float(coordsD["lat"])
   longs_sum += float(coordsD["long"])
