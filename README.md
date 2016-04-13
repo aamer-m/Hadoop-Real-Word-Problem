@@ -25,7 +25,13 @@ Hadoop Map-Reduce Project #3
 - Q3. How does @PrezOno’s tweet length compare to the average of all others?  
    What is his average length?  All others?  
    > Result -   
-   >
+   > * PrezOno 
+   >  - Average Tweet Length - 104
+   >  - Maximum Tweet Length - 144
+   >  - Minimum Tweet Length - 8   
+   > * Others
+   >  - Average Tweet Length - 81
+
    
 - Q7. For those tweets with location information, what lat/long (or city/state) is the centroid?  
    What was the proportion of tweets with location to those without?  
