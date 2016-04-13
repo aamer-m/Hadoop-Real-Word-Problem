@@ -19,7 +19,14 @@ Hadoop Map-Reduce Project #3
    
 - Q2. What day of the week does @PrezOno tweet the most on average?   
    Use the same example as in #1 but for days of the week.  
-   > Result 
+   > Sunday avg: 1.13461538462  
+   > Monday avg: 0.923076923077  
+   > Tuesday avg: 0.634615384615  
+   > Wednesday avg: 1.05769230769  
+   > Thursday avg: 1.03846153846  
+   > Friday avg: 0.75  
+   > Saturday avg: 1.01923076923  
+   > PrezOno tweet the most on Sunday1.13461538462  
    
 - Q3. How does @PrezOno’s tweet length compare to the average of all others?  
    What is his average length?  All others?  
